@@ -1,5 +1,5 @@
-![]()
-# random-bg-gradient-onclick
+![](bg-random-gradient.gif)
+# Random BG Gradient Onclick
 Genera un background gradient aleatorios al hacer click en el boton.
 
 Creamos un click event relacionado al button.
