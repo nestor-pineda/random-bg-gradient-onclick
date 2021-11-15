@@ -1,8 +1,3 @@
-// Creamos un slick event relacionado al button
-// Creamos una numero aleatorio del 0 - 15, el cual iteraremos 6 veces por el "myArray" para sacar 6 valores aleatorios y guardarlos como una string en la variable "color1".
-// hacemos lo mismo con "color2"
-// asignasmo un linear gradient al body con cada click en el button.
-
 document.querySelector("#submit").addEventListener("click", () => {
   const hexadecimalCode = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "A", "B", "C", "D", "E", "F"];
   let randomIndex1; //Generaremos un index number entre 0 y el 15
